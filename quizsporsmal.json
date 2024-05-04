@@ -1,17 +1,10 @@
-[
 {
-"sporsmal":["alternativ1", "alternativ2", "alternativ3", "alternativ4"]
-},
-{
-"sporsmal":["alternativ1", "alternativ2", "alternativ3", "alternativ4"]
-},
-{
-"sporsmal":["alternativ1", "alternativ2", "alternativ3", "alternativ4"]
-},
-{
-"sporsmal":["alternativ1", "alternativ2", "alternativ3", "alternativ4"]
-},
-{
-"sporsmal":["alternativ1", "alternativ2", "alternativ3", "alternativ4"]
-} 
-]
+  "sporsmal1":{
+    "sporsmal":"Sporsmal?",
+    "riktigsvar":"riktigsvar"
+  },
+  "sporsmal2":{
+    "sporsmal":"Sporsmal?",
+    "riktigsvar":"riktigsvar"
+  }
+}
