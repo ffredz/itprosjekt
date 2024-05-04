@@ -1,10 +1,14 @@
-{
+[
+  {
   "sporsmal1":{
     "sporsmal":"Sporsmal?",
     "riktigsvar":"riktigsvar"
+  }
   },
+  {
   "sporsmal2":{
     "sporsmal":"Sporsmal?",
     "riktigsvar":"riktigsvar"
   }
-}
+  }
+]
