@@ -17,7 +17,7 @@
     },
     {
       "id": 4,
-      "question": "Hvor mange bits trengs for å beskrive hver farge i et bildepunkt med RGB",
+      "question": "Hvor mange bits trengs for å beskrive hver farge i et bildepunkt med RGB?",
       "answer": "24"
     },
     {
