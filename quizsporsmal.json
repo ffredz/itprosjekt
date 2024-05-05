@@ -2,24 +2,50 @@
   "questions": [
     {
       "id": 1,
-      "question": "What is the capital of France?",
-      "answer": "Paris"
+      "question": "Hvilke farger brukes i RGB-systemet?",
+      "answer": "Rød, Grønn, Blå"
     },
     {
       "id": 2,
-      "question": "Who wrote 'To Kill a Mockingbird'?",
-      "answer": "Harper Lee"
+      "question": "Hva brukes CMYK mest til?",
+      "answer": "Trykk på papir"
     },
     {
       "id": 3,
-      "question": "What is the chemical symbol for water?",
-      "answer": "H2O"
+      "question": "Hvilke verdier kan RGB verdier ha?",
+      "answer": "0 til 255"
     },
     {
       "id": 4,
-      "question": "What is the tallest mountain in the world?",
-      "answer": "Mount Everest"
+      "question": "Hvor mange bits trengs for å beskrive hver farge i et bildepunkt med RGB",
+      "answer": "24"
+    },
+    {
+      "id":5;
+      "question":"Hva står RLE for?",
+      "answer":"Run Length Encoding"
+    },
+    {
+      "id":6;
+      "question":"Hva står PCM for?",
+      "answer":"Pulse Code Modulation"
+    },
+    {
+      "id":7,
+      "question":"Hva står fps for?",
+      "answer":"frames per second"
+    },
+    {
+      "id":8,
+      "question":"hvor mange fps bruker PAL systemet?",
+      "answer":"25"
     }
+    {
+      "id":9,
+      "question":"Hva kaller man mengden bits en video krever per sekund?",
+      "answer":"datarate"
+    }
+    
 
   ]
 }
